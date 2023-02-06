@@ -1,12 +1,12 @@
 #!/bin/bash
 # Enter Zip file  directory location from local
 #dir_origin="dayprise/*"
-dir_origin="/home/user/dayprise/*"
+dir_origin="/home/user/XXX/*"
 # Enter server username
 username="frontend"
 
 # Enter server build dir location 
-dir_destination="/var/www/dayprise.app/public_html/dayprise-dev/"
+dir_destination="/var/www/XXX.app/public_html/XXX-dev/"
 
 # Enter IP of server
 Ip="x.x.x.x.x"
